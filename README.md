@@ -20,8 +20,8 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-### NAME: JANARTHANAN V K 
-### REG NO: 212222230051
+### NAME: ADHITHYARAM D
+### REG NO: 212222230008
 ### CLIENT :
 ```py
 # echo-client.py
@@ -63,4 +63,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 ## RESULT:
-The program is executed successfully
+The program is executed successfully.
